@@ -55,8 +55,8 @@ The analysis is powered by a rich dataset comprising:
 
 The following data model consolidates and relates all critical information from both platforms:
 
-![Data Model](<img width="716" height="521" alt="data_model" src="https://github.com/user-attachments/assets/f4831a58-fe01-42c6-aba5-5ebcd8112236" />
-)
+(<img width="716" height="521" alt="data_model" src="https://github.com/user-attachments/assets/f4831a58-fe01-42c6-aba5-5ebcd8112236" />)
+
 
 **Key Components:**
 
@@ -78,8 +78,8 @@ The following data model consolidates and relates all critical information from 
 - Churn rate and inactivity patterns
 - Plan-wise engagement analysis
 
-![User Analysis](<img width="783" height="495" alt="User snapshot" src="https://github.com/user-attachments/assets/7f0b4b84-ae53-4fd5-958d-cb9c00f8d8ba" />
-)
+(<img width="783" height="495" alt="User snapshot" src="https://github.com/user-attachments/assets/7f0b4b84-ae53-4fd5-958d-cb9c00f8d8ba" />)
+
 
 ---
 
@@ -89,8 +89,8 @@ The following data model consolidates and relates all critical information from 
 - Content consumption patterns across platforms
 - Performance of popular titles
 
-![Content Analysis](<img width="788" height="477" alt="Content Snapshot" src="https://github.com/user-attachments/assets/3ff37bf8-433b-4f2c-8690-7ac1b1a4adc3" />
-)
+(<img width="788" height="477" alt="Content Snapshot" src="https://github.com/user-attachments/assets/3ff37bf8-433b-4f2c-8690-7ac1b1a4adc3" />)
+
 
 ---
 
@@ -100,8 +100,7 @@ The following data model consolidates and relates all critical information from 
 - Monthly recurring revenue trends
 - Pricing model effectiveness
 
-![Revenue Analysis](<img width="795" height="503" alt="Revenue snapshot" src="https://github.com/user-attachments/assets/cbbd9919-a2c3-4519-a5f9-aaa57c8ea69a" />
-)
+(<img width="795" height="503" alt="Revenue snapshot" src="https://github.com/user-attachments/assets/cbbd9919-a2c3-4519-a5f9-aaa57c8ea69a" />)
 
 ---
 
@@ -110,8 +109,7 @@ The following data model consolidates and relates all critical information from 
 - Unified summary of performance metrics
 - User growth, retention, and monetization combined
 
-![Platform Overview](<img width="785" height="483" alt="Overview Snapshot" src="https://github.com/user-attachments/assets/a0f59a31-4fd7-405a-a9bd-9634ce70da50" />
-)
+(<img width="785" height="483" alt="Overview Snapshot" src="https://github.com/user-attachments/assets/a0f59a31-4fd7-405a-a9bd-9634ce70da50" />)
 
 ---
 
